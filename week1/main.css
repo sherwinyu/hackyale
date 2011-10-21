@@ -1,0 +1,64 @@
+/* ==================
+   Hello!
+   This is your css file, it contains all the styling for your webpage!
+   go design something crazzzyy
+   ========================
+*/
+
+p {
+    padding: 0px;
+    margin: 0px;
+}
+a{
+	color:#b96300;
+	text-decoration: none;
+}
+a:hover {
+	color: #666;
+}
+
+body {
+	background:#F9F7F4;
+	height:100%;
+    margin:0px;
+    padding:0px;
+    font-family: 'Helvetica Neue', Helvetica, Lucida, Arial, sans-serif;
+    font-size:13px;
+    color:#333;
+}
+
+#wrapper{
+    width:100%;
+    height:100%;
+    padding:40px;
+}
+#center_float{
+    width:500px;
+    margin-top:100px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+img#casual_business_photo{
+    padding:2px;
+    border:1px solid #888;
+    margin:14px;
+}
+#name{
+    font-size: 24px;
+    font-weight:bold;
+	line-height: 17px;
+	color: #555;
+	
+}
+
+#lower_block{
+    width:500px;
+    margin:80px auto;
+}
+
+.awesome{
+    color:#2a4a8d;
+    font-weight:bold;
+    text-transform:uppercase;
+}
